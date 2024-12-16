@@ -1,0 +1,10 @@
+1. Install virualenv
+MAC - python3 -m pip install virtualenv
+-- using python i want to use the modules, the one that i want to use is the pip, and i want 
+
+2. Use venv to create a virtual enviroment 
+MAC - pyhton3 -m venv venv
+
+
+3. We need to launch the virtualenv
+MAC - source venv/bin/activate
